@@ -6,7 +6,7 @@ Aspriring Fullstack/Software Developer
 
 Recently graduated with a Bachelor's of Science in Computer Science and with the knowledge that I've obtained through my time in college, I want to make an impact in the world. I also love learning new things!
 
-* 🌍  I'm based in Indiana
+* 🌍  I'm based in Indiana, United States
 * 🖥️  See my portfolio at [Here](http://michaelnguyen-portfolio.vercel.app/)
 * ✉️  You can contact me at [michaelnguyen2203@gmail.com](mailto:michaelnguyen2203@gmail.com)
 * 🧠  I'm learning Next.js
