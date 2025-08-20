@@ -9,7 +9,7 @@ Recently graduated with a Bachelor's of Science in Computer Science and with the
 * 🌍  I'm based in Indiana, United States
 * 🖥️  See my portfolio at [Here](http://michaelnguyen-portfolio.vercel.app/)
 * ✉️  You can contact me at [michaelnguyen2203@gmail.com](mailto:michaelnguyen2203@gmail.com)
-*   🚀  I'm currently working on [Latest Project](https://aslwebsite.onrender.com/asl)
+*   🚀  I'm currently working on [Latest Project](https://github.com/myeken/anirater)
 * 🧠  I'm learning Next.js
 
 ### Skills
